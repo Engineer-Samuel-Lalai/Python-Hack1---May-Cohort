@@ -2,9 +2,9 @@
 
 This repository contains your solutions to three simple data structures and algorithms problems. Please follow the instructions below to complete the tasks and submit your work.
 
-## Questions
+## Questions 
 
-### 1. Reverse a String Using a Stack
+### 1.Reverse a String Using a Stack
 - **Task:** Implement a stack data structure to reverse a string.
 - **Function:** `reverse_string(s: str) -> str`
 - **Example:**
